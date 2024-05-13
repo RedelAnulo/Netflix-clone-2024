@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RedelAnulo.github.io/Netflix-clone-2024/static/css/main.c52fc06b.css",
+    "main.js": "/RedelAnulo.github.io/Netflix-clone-2024/static/js/main.ba2e7e45.js",
+    "static/media/NetflixLogo.png": "/RedelAnulo.github.io/Netflix-clone-2024/static/media/NetflixLogo.303904f75553a51bbf31.png",
+    "index.html": "/RedelAnulo.github.io/Netflix-clone-2024/index.html",
+    "main.c52fc06b.css.map": "/RedelAnulo.github.io/Netflix-clone-2024/static/css/main.c52fc06b.css.map",
+    "main.ba2e7e45.js.map": "/RedelAnulo.github.io/Netflix-clone-2024/static/js/main.ba2e7e45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52fc06b.css",
+    "static/js/main.ba2e7e45.js"
+  ]
+}
