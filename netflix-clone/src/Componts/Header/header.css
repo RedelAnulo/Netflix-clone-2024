@@ -3,9 +3,8 @@
   top: 0;
   display: flex;
   justify-content: center;
-  /* border-color: rgb(148,132,132); */
   border-color: rgb(20, 20, 20);
-  /* border-color: transparent; */
+  border-color: transparent;
   height: 10vh;
   color: white;
   transition: all 0.5s;
